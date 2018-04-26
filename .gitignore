@@ -1,0 +1,5 @@
+# no recovery key
+recoveryKey
+
+#no .class files
+*.class
